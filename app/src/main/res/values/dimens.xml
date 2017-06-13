@@ -1,0 +1,7 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="custom_tab_layout_height">72dp</dimen>
+    <dimen name="tab_lay_icon">32dp</dimen>
+    <dimen name="tab_icon_margin">3dp</dimen>
+
+</resources>

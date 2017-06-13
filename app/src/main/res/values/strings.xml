@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">App Manager</string>
+
+    <string name="action_search">Search</string>
+
+    <string name="transition_app_icon" translatable="false">App Icon Transition</string>
+    <string name="exit">press back again to exit!</string>
+    <string name="action_sort">sort</string>
+    <string name="button_extract">EXTRACT</string>
+    <string name="button_share">SHARE APK</string>
+    <string name="send_to">Send \"%s\" using</string>
+
+</resources>
+
